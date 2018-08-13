@@ -1,0 +1,3 @@
+yum install python-devel git gcc libffi-devel openssl-devel
+yum install python-virtualenv
+yum install libselinux-python
